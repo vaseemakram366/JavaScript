@@ -27,6 +27,8 @@
 // age = 34;
 // age = 36;
 
-const age;
+const age = 23;
+
+
 
 console.log(age);
