@@ -29,6 +29,10 @@
 
 const age = 23;
 
+var name  = "Virat Kohli"
+
+let name = "Rohit Sharma"
+
 
 
 console.log(age);
