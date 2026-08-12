@@ -26,7 +26,7 @@
 // let age = 32;
 // age = 34;
 // age = 36;
-
+// var was before es6
 const age = 23;
 
 var name  = "Virat Kohli"
