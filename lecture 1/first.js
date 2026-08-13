@@ -36,4 +36,6 @@ let name = "Rohit Sharma"
 
 
 console.log(age);
+console.log("hello world");
+
 
