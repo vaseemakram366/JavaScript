@@ -1,3 +1,6 @@
+// variable in javascript
+
+
 // name = "Vaseem Akram";
 // age = 24;
 // price = 1324;
