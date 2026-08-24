@@ -30,15 +30,41 @@
 // age = 34;
 // age = 36;
 // var was before es6
-const age = 23;
+// const age = 23;
 
-var name  = "Virat Kohli"
+// var name  = "Virat Kohli"
 
-let name = "Rohit Sharma"
+// let name = "Rohit Sharma"
 
 
 
-console.log(age);
-console.log("hello world");
+// console.log(age);
+// console.log("hello world");
+
+// console.log(" this repl contains code for the Ronaldo c++");
+
+
+// console.log("Javascript tutorial:");
+
+// NNSSBBU(Datatypes)
+// a = null;
+// b = 23;
+// c = "vaseem";
+// d = Symbol("I am a nuce symbol");
+// e = true;
+// f = BigInt("234") + BigInt("3")
+// g = undefined;
+// console.log(a,b,c,d,e,f,g);
+// console.log(typeof e);
+
+
+const item  = {
+    "Harry":true,
+    "Rohan":false,
+    "name":undefined
+}
+console.log(item['Harry']);
+
+
 
 
