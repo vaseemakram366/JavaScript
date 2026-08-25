@@ -58,12 +58,13 @@
 // console.log(typeof e);
 
 
-const item  = {
-    "Harry":true,
-    "Rohan":false,
-    "name":undefined
-}
-console.log(item['Harry']);
+// const item  = {
+//     "Harry":true,
+//     "Rohan":false,
+//     "name":undefined
+// }
+// console.log(item['Harry']);
+
 
 
 
