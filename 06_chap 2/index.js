@@ -37,3 +37,10 @@ console.log("comp1 == comp2 is", comp1 == comp2);
 console.log("comp1 == comp2 is", comp1 != comp2);
 console.log("comp1 == comp2 is", comp1 === comp2);
 console.log("comp1 == comp2 is", comp1 !== comp2);
+console.log("comp1 > comp2 is", comp1 > comp2);
+
+
+// logical operator
+let x = 4;
+let y = 8;
+console.log(x<y && x==4);
