@@ -17,4 +17,4 @@ const dict = {
     "appreciate":"recognize the full worth of"
 }
 
-console.log(dict);learn: practice JavaScript objects and variables
+console.log(dict);
