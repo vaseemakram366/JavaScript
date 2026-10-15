@@ -1,0 +1,40 @@
+setTimeout(()=>{
+    console.log("Hacking wifi... Please wait...");
+},1000)
+
+try {
+    setTimeout(()=>{
+        try {
+            console.log(rahul);
+        } catch (error) {
+            
+        }
+        
+    },100)
+    
+    
+} catch (error) {
+    console.log("balle balle");
+    
+    
+}
+
+setTimeout(()=>{
+    console.log("Fetching username and password...please...wait");
+
+    
+    
+},2000)
+
+setTimeout(()=>{
+    console.log("Hacking Rahul's facebook id... Please wait...");
+    
+},3000)
+
+setTimeout(()=>{
+    console.log("Username and password of Rahul (+919356700001) fetched...please wait...");
+    
+},4000)
+
+
+
